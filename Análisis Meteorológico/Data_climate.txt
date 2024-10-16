@@ -1,0 +1,26 @@
+DATOS CLIMATICOS
+
+TIEMPOS DE MEDIDA: Las datos tienen medida de: Temperatura media(°F), Humedad media(%) y  Barómetro media(in).
+MUESTRA: Estos valores son tomados diariamente desde el año 2010 hasta el año 2019.
+	 Se hizo el recorte de los años debido a que en los datos del 2009 y 2020, faltaba informacion de los ultimos días del año.
+RANGO: 365 días cada tres años (2010,2013,2016 y 2019)
+
+VARIABLES: Los datos relacionados con la temperatura media estan identificados de la siguiente manera: Climate_Tmedia20XX
+	   Climate_Tmedia2010
+	   Climate_Tmedia2013 
+	   Climate_Tmedia2016
+	   Climate_Tmedia2019
+	   
+	   Los datos relacionados con la humedad media estan identificados de la siguiente manera: Climate_Hmedia20XX
+	   Climate_Hmedia2010
+	   Climate_Hmedia2013 
+	   Climate_Hmedia2016
+	   Climate_Hmedia2019
+
+	   Los datos relacionados con la humedad media estan identificados de la siguiente manera: Climate_Hmedia20XX
+	   Climate_Pmedia2010  
+ 	   Climate_Pmedia2013
+	   Climate_Pmedia2016 
+	   Climate_Pmedia2019
+
+ 

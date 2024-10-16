@@ -1,0 +1,8 @@
+El archivo contiene datos tomados con un smartphone a través de la aplicación MATLAB Mobile, 
+corresponde a aceleraciones con respecto al eje Y del teléfono. Estos datos se muestrearon a una 
+frecuencia de 25Hz para acciones tales como caminata (normal y anómala), trote suave, y pique;
+estando el teléfono a la altura de la cadera y habiendo recorrido no más de 6 pasos durante cada
+muestra realizados sobre una superficie completamente sólida y plana. Para nombrar las señales 
+se tiene la siguiente estructura:
+
+Actividad-N°Muestra-Eje    , C : Caminata, CA: Caminata anormal, T : Trote,  P : Pique

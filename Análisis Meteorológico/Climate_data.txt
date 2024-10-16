@@ -1,0 +1,10 @@
+DATOS CLIMATICOS
+
+URL KAGGLE: https://www.kaggle.com/mastmustu/weather-analysis
+URL FUENTE PRINCIPAL: https://www.estesparkweather.net/archive_reports.php?date=200901
+LUGAR DE DONDE SE TOMAN LOS DATOS: Estes Park, Colorado, EE.UU.
+TIEMPOS DE MEDIDA: Las datos tienen medida de: Temperatura media(°F), Humedad media(%), Punto de rocío media(°F), Barómetro media(in), Velocidad media del viento(mph),
+		   Velocidad media de las ráfagas(mph), Dirección dirección(°deg), Precipitación del mes(in), Precipitación del año(in), Lluvia máxima por minuto,
+		   Temperatura máxima(°F), Temperatura mínima(°F), Humedad máxima(%), Humedad mínima(%), Presión máxima, Presión mínima, Velocidad máxima del viento(mph),
+		   Velocidad máxima de ráfaga(mph) e Índice de calor máximo(°F).
+MUESTRA: Estos valores son tomados diariamente desde el año 2009 hasta el año 2020.

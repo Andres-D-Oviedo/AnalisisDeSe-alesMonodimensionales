@@ -1,0 +1,10 @@
+DATOS DE ELECTROCARDIOGRAMAS (ECG)
+
+URL KAGGLE: https://www.kaggle.com/devavratatripathy/ecg-dataset
+TIPOS DE DATOS: Los datos contienen lecturas de ECG de pacientes (aleatorios).
+MUESTRA: Los datos son tomados a 140 personas.
+	 Cada ECG contiene 140 puntos de datos (lecturas).
+	 Cada persona tiene aproximadamente 35 ECG.
+	 Los datos son numeros flotantes.
+	 
+		     

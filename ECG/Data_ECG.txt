@@ -1,0 +1,56 @@
+DATOS DE ELECTROCARDIOGRAMAS (ECG)
+
+TIPOS DE DATOS: Los datos contienen lecturas de ECG de pacientes (aleatorios).
+MUESTRA: Los datos para anilizar son de 7 personas (Cada 20 personas).
+	 Cada ECG contiene 140 puntos de datos (lecturas).
+	 Cada persona tiene 5 ECG. (Cada 7 ECG)
+	 Los datos son numeros flotantes.
+
+VARIABLES: Los datos relacionados con la persona uno estaran identificados de la siguinete manera: Persona1_ECGX
+	   Persona1_ECG1
+	   Persona1_ECG2
+	   Persona1_ECG3
+	   Persona1_ECG4
+	   Persona1_ECG5
+
+	   Los datos relacionados con la persona dos estaran identificados de la siguinete manera: Persona2_ECGX
+	   Persona2_ECG1
+	   Persona2_ECG2
+	   Persona2_ECG3
+	   Persona2_ECG4
+	   Persona2_ECG5
+
+	   Los datos relacionados con la persona tres estaran identificados de la siguinete manera: Persona3_ECGX
+	   Persona3_ECG1
+	   Persona3_ECG2
+	   Persona3_ECG3
+	   Persona3_ECG4
+	   Persona3_ECG5
+
+	   Los datos relacionados con la persona cuatro estaran identificados de la siguinete manera: Persona4_ECGX
+	   Persona4_ECG1
+	   Persona4_ECG2
+	   Persona4_ECG3
+	   Persona4_ECG4
+	   Persona4_ECG5
+
+	   Los datos relacionados con la persona cinco estaran identificados de la siguinete manera: Persona5_ECGX
+	   Persona5_ECG1
+	   Persona5_ECG2
+	   Persona5_ECG3
+	   Persona5_ECG4
+	   Persona5_ECG5
+
+	   Los datos relacionados con la persona seis estaran identificados de la siguinete manera: Persona6_ECGX
+	   Persona6_ECG1
+	   Persona6_ECG2
+	   Persona6_ECG3
+	   Persona6_ECG4
+	   Persona6_ECG5
+
+	   Los datos relacionados con la persona siete estaran identificados de la siguinete manera: Persona7_ECGX
+	   Persona7_ECG1
+	   Persona7_ECG2
+	   Persona7_ECG3
+	   Persona7_ECG4
+	   Persona7_ECG5

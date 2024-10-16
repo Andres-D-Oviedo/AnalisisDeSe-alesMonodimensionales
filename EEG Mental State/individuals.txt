@@ -1,0 +1,10 @@
+URL: https://www.kaggle.com/birdy654/eeg-brainwave-dataset-mental-state
+
+Datos EEG de 4 individuos (2 mujeres, 2 hombres), tomados con la Muse Headband durante 60s 
+para cada estado mental (concentrado:con, neutro:neu, relajado:rel) con una tasa de muestreo de 
+250Hz aprox. El archivo individuals.mat contiene los datos de cada estado para 4 electrodos 
+secos: TP9, AF7, AF8 y TP10 de los cuatro individuos. 
+
+Para nombrar las variables se considera la siguiente estructura: 
+Individuo-Estado_Electrodo, e.g. Acon_AF7, hace referencia a la señal del electrodo AF7 para el 
+individuo A en el estado concentrado.
